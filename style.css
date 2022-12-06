@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css2?family=Caveat:wght@400;500;600;700&family=Space+Grotesk:wght@300;400;500;600;700&family=Space+Mono:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+/*
+font-family: 'Caveat', cursive;
+font-family: 'Space Grotesk', sans-serif;
+font-family: 'Space Mono', monospace;
+*/
+
+*{
+  box-sizing: border-box;
+  margin: 0;
+}
+
+html, body {
+  font-family: 'Space Grotesk', sans-serif; 
+}
+
+
+h1{
+  padding: 0;
+  margin: 0;
+  font-size: 1.5em;
+  color: #212529;
+}
+
+h3{
+  font-size: 3em;
+}
+
+p{
+  font-family: 'Space Mono', sans-serif; 
+  font-size: 0.9em;
+  line-height: 1.2em;
+}
+
+
+.poste{
+  font-family: 'Caveat', cursive;
+  font-size: 1.3em;
+}
